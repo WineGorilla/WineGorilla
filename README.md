@@ -1,13 +1,11 @@
 #  Hi, I'm Ruiyu Yan (Ricardo)
 Data Science | AI | Software Development | Business | History  
-
-####  Programming & Scripting  
+ 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?logo=apple&logoColor=white&style=flat)
-####  Data Science & Machine Learning  
+![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?logo=apple&logoColor=white&style=flat) 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
@@ -15,11 +13,9 @@ Data Science | AI | Software Development | Business | History
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=flat)
 ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
-####  Databases & Data Engineering  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-####  Web Development & Backend  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)

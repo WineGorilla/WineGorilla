@@ -1,27 +1,40 @@
-# 👋 Hi, I'm Ruiyu Yan (Ricardo)
+#  Hi, I'm Ruiyu Yan (Ricardo)
 Data Science | AI | Software Development | Business | History  
----
 
-###  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WineGorilla&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WineGorilla&layout=compact&theme=tokyonight)
-
----
-
-###  Tech Stack  
+####  Programming & Scripting  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?logo=apple&logoColor=white&style=flat)
+
+####  Data Science & Machine Learning  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=flat)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
 
----
+####  Databases & Data Engineering  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
-###  Streak & Visitors
-![GitHub Streak](https://streak-stats.demolab.com?user=WineGorilla&theme=tokyonight)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WineGorilla)
+####  Web Development & Backend  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
 
----
+####  Visualization & Business Analysis  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 
-###  Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WineGorilla&repo=AI-Tourist-Map-Backend&theme=tokyonight)](https://github.com/WineGorilla/AI-Tourist-Map-Backend)
-
+####  Others  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-2C7AC3?logo=arcgis&logoColor=white&style=flat)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat)

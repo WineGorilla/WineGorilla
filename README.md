@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruiyu Yan (Ricardo)
+Data Science | AI | Software Development | Business | History  
+---
 
-<!--
-**WineGorilla/WineGorilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WineGorilla&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WineGorilla&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
+---
+
+###  Streak & Visitors
+![GitHub Streak](https://streak-stats.demolab.com?user=WineGorilla&theme=tokyonight)  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WineGorilla)
+
+---
+
+###  Featured Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WineGorilla&repo=AI-Tourist-Map-Backend&theme=tokyonight)](https://github.com/WineGorilla/AI-Tourist-Map-Backend)
+

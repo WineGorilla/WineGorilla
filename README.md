@@ -1,5 +1,5 @@
 #  Hi, I'm Ruiyu Yan (Ricardo)
-Data Science | AI | Software Development | Business | History  
+Data Science | AI | Software Development | Business | Accounting | History
 • You may reach me via email ry2648@nyu.edu or winegorilla2@gmail.com
  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)

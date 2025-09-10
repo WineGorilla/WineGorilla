@@ -1,6 +1,6 @@
 #  Hi, I'm Ruiyu Yan (Ricardo)
 Data Science | Machine Learning | Deep Learning | Software Development | GIS | Business Analytics | Accounting | History  
-• You may reach me via email ry2648@nyu.edu or winegorilla2@gmail.com
+• You may reach me via email ry2648@nyu.edu or winegorilla2@gmail.com  
 • Georgia Tech Master in Computer Science  
 • NYU Master in Data Science & Urban Informatics  
 • NUST Bachelor in Business Analytics  

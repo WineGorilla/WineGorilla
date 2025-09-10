@@ -3,7 +3,7 @@ Data Science | Machine Learning | Deep Learning | Software Development | GIS | B
 • You may reach me via email ry2648@nyu.edu or winegorilla2@gmail.com  
 • Georgia Tech Master in Computer Science  
 • NYU Master in Data Science & Urban Informatics  
-• NUST Bachelor in Business Analytics  
+• MUST Bachelor in Business Analytics  
  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)

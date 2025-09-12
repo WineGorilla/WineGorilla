@@ -1,6 +1,8 @@
 #  Hi, I'm Ruiyu Yan (Ricardo)
 Data Science | Machine Learning | Deep Learning | Software Development | GIS | Business Analytics | Accounting | History  
 • You may reach me via email ry2648@nyu.edu or winegorilla2@gmail.com  
+• NYU Dynamical Systems Laboratory - Software Intern  
+• NJIT Bio-Medical Engineering - Research Intern 
  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)

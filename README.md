@@ -30,3 +30,5 @@ Data Science | Machine Learning | Deep Learning | Software Development | GIS | B
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-2C7AC3?logo=arcgis&logoColor=white&style=flat)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat)
+![Blender](https://img.shields.io/badge/-Blender-E87D0D?logo=blender&logoColor=white&style=flat)
+![Cesium](https://img.shields.io/badge/-Cesium-005BA1?logo=cesium&logoColor=white&style=flat)

@@ -32,3 +32,5 @@ Data Science | Machine Learning | Deep Learning | Software Development | GIS | B
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat)
 ![Blender](https://img.shields.io/badge/-Blender-E87D0D?logo=blender&logoColor=white&style=flat)
 ![Cesium](https://img.shields.io/badge/-Cesium-005BA1?logo=cesium&logoColor=white&style=flat)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs&logoColor=white&style=flat) ![Cesium](https://img.shields.io/badge/-Cesium-005BA1?logo=cesium&logoColor=white&style=flat)
+

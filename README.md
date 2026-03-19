@@ -1,5 +1,5 @@
 #  Hi, I'm Ruiyu Yan (Ricardo) 闫睿宇
-| Data Science | Machine Learning | Deep Learning | Software Development |
+| Data Science | Machine Learning | Deep Learning | Software Development |  
 | Brain AI | VR&AR | GIS | Business Analytics | Accounting | History |
 • You may reach me via email ry2648@nyu.edu or ryan84@gatech.edu or winegorilla2@gmail.com
  
